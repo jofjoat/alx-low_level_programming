@@ -3,7 +3,9 @@
 
 /*
  * main - print a quote
+ *
  * Description: print Dor's quote
+ * 
  * Return: Always 1 (Success)
  */
 
