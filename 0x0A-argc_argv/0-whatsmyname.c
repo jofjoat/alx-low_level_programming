@@ -7,7 +7,7 @@
  * @argv: array of pointers to the argument
  * Return: Always 0
  */
-int main(int argc, char const *argv)
+int main(int argc, char const *argv[])
 {
     printf("%s\n", argv[0])
     return (0); 
