@@ -5,7 +5,6 @@
  * @s: string to check
  * Return: 0 or 1
  */
-
 int isInteger(const char *s)
 {
     int i = 0;
