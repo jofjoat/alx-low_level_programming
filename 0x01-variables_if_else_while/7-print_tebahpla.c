@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 
-/*
- * main - a program that prints lowercase aplhabets in 
+/**
+ * main - a program that prints lowercase aplhabets in
  * reverse followed by a new line.
  * Return: 0 ends the program successfully.
 */
