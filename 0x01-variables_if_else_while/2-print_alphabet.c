@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main - a program that prints all the aplhabet 
+ * main - a program that prints all the aplhabet
  * characters in lowercase.
  * Return: 0 ends the program.
 */
