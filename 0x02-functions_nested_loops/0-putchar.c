@@ -1,9 +1,11 @@
+
 #include "main.h"
 
 /**
  * main - a program that prints "_putchar"
  * Return: 0 ends a program
 */
+
 int main(void)
 {
 	int i = 0;
