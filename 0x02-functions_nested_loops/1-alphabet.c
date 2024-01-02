@@ -4,7 +4,7 @@
  * main - a program that prints the alphabet in lowercase
  * Return: 0 ends program successfully
 */
-int main(void)
+void print_alphabet(void)
 {
 	char i = 'a';
 
@@ -13,5 +13,5 @@ int main(void)
 		_putchar(i);
 	}
 	_putchar('\n');
-	return (0);
+	return;
 }
